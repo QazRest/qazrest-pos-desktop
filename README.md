@@ -1,0 +1,1 @@
+# qazrest-pos-desktop
